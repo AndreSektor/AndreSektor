@@ -1,17 +1,17 @@
 ### Opa, tudo bem espero que sim, me chamo André 👋
 - ▶ Hoje trabalho com Test(API,Automação,Teste Manual) ✔
 - ▶ Estudando Automação ✔
-- ▶ Trabalhando atualmente como tester no ISIT´c ✔
+- ▶ Trabalhando atualmente como tester no ISI-TIC´s ✔
 - ▶ Contate-me no e-mail: andreluissilva012@gmail.com ✔
 - ▶ Pronouns: ele/dele ✔
 - ⏹
 
 ## Criador de conteúdo de automação de testes !
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/AndreSektor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreSektor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSektor&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
