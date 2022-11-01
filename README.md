@@ -1,7 +1,8 @@
 ### Opa, tudo bem espero que sim, me chamo André 👋
 - ▶ Hoje trabalho com Test(API,Automação,Teste Manual) ✔
 - ▶ Estudando Automação ✔
-- ▶ Trabalhando atualmente como tester no ISI-TIC´s ✔
+- ▶ Trabalhando atualmente como Analista de teste e qualidade de Software (QA) ✔
+- ▶ Empresa Ambipar Bleu Technologies ✔
 - ▶ Contate-me no e-mail: andreluissilva012@gmail.com ✔
 - ▶ Pronouns: ele/dele ✔
 - ⏹
