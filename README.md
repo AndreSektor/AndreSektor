@@ -2,7 +2,7 @@
 - ▶ Hoje trabalho com Test(API,Automação,Teste Manual) ✔
 - ▶ Estudando Automação ✔
 - ▶ Trabalhando atualmente como Analista de teste e qualidade de Software (QA) ✔
-- ▶ Empresa Ambipar Bleu Technologies ✔
+- ▶ Aberto a oportunidades ✔
 - ▶ Contate-me no e-mail: andreluissilva012@gmail.com ✔
 - ▶ Pronouns: ele/dele ✔
 - ⏹
